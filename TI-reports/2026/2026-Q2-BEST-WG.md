@@ -155,6 +155,12 @@ Besides a description of each coding pattern, the guide includes executable code
 
 * Continue working on a threat modelling [guide for web developers](https://github.com/mdn/content/pull/42980).
 
+## Funding requests and updates
+
+The WG briefly discussed applying for funding of a technical writer to support the group with reviewing, finalizing, and maintaining the various guides we host. However, there currently no concrete funding request in the pipeline.
+
+The WG currently does not receive funding yet.
+
 ## Questions/Issues for the TAC
 
 * none
